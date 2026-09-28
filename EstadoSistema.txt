@@ -1,4 +1,4 @@
 Registro del sistema
 Caso de estudio
 Estado: Aprobado
-Observación lunes: Pruebas realizadas correctaenente
+Observación lunes: Version aprobada para entrega
