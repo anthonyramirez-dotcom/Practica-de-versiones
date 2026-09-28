@@ -1,3 +1,4 @@
 Registro del sistema
 Caso de estudio
-Esatado de revision
+Estado: Aprobado
+Observación lunes: Pruebas realizadas correctaenente
